@@ -56,5 +56,5 @@ The collection uses the following variable:
 ## Running Tests
 1. Open Postman and navigate to the **Evershop API Testing** collection.
 2. Select a request and click **Send** to execute.
-3. Observe the response data to verify expected results.
+3. Observe the response data to verify the expected results.
 
